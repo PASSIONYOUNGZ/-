@@ -1,0 +1,12 @@
+com\example\newone\pojo\Dept.class
+com\example\newone\pojo\Emp.class
+com\example\newone\service\EmpService.class
+com\example\newone\controller\EmpController.class
+com\example\newone\NewoneApplication.class
+com\example\newone\service\impl\EmpServiceImpl.class
+com\example\newone\mapper\DeptMapper.class
+com\example\newone\pojo\Result.class
+com\example\newone\controller\DeptController.class
+com\example\newone\service\DeptService.class
+com\example\newone\mapper\EmpMapper.class
+com\example\newone\service\impl\DeptServiceImpl.class
